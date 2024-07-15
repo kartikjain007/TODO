@@ -1,5 +1,5 @@
 ### TODO List Application
-This is a simple todo list application implemented using JavaScript. The application allows users to add tasks, mark them as completed, and remove them. The tasks are saved in the browser's local storage, so they persist across page reloads.
+This is a simple to-do list application implemented using HTML, CSS, and JavaScript. The application allows users to add tasks, mark them as completed, and remove them. The tasks are saved in the browser's local storage, so they persist across page reloads.
 
 ## Features
 - Add new tasks by typing in the input box and pressing Enter.
